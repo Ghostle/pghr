@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+.metadata
+.buildpath
+.project
+.settings
+nbproject
+.idea
+composer.phar
+.composer
+/0-
+/vendor
+/tmp
